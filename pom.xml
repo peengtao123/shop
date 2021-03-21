@@ -35,7 +35,7 @@
         <module>ui</module>
         <module>config</module>
         <module>eureka-server</module>
-        <module>serivice-echo</module>
+        <module>service-echo</module>
         <module>demo</module>
         <module>maven-pt-plugin</module>
         <module>demo-mybatis</module>
